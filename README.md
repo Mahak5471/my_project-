@@ -41,10 +41,3 @@ It uses machine learning models like Random Forest to classify customers and ide
 
 #  Author
 - Mahak Chauhan
-xgboost
-```
-
----
-
-Would you also like me to help you by giving a small example for the **Feature Importance Plot** section, so you can add it to your code too? 🎯  
-(It'll make your project even better!)
